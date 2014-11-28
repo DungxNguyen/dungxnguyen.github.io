@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Dungx Nguyen Blog]]></title>
-  <link href="http://dungxnguyen.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: General | Dungx Nguyen Blog]]></title>
+  <link href="http://dungxnguyen.github.io/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://dungxnguyen.github.io/"/>
   <updated>2014-11-28T16:11:28+07:00</updated>
   <id>http://dungxnguyen.github.io/</id>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Dungx Nguyen Blog]]></title>
+  <title><![CDATA[The most retarded things]]></title>
   <link href="http://dungxnguyen.github.io/atom.xml" rel="self"/>
   <link href="http://dungxnguyen.github.io/"/>
-  <updated>2014-11-28T18:25:51+07:00</updated>
+  <updated>2014-11-28T18:28:17+07:00</updated>
   <id>http://dungxnguyen.github.io/</id>
   <author>
     <name><![CDATA[Dungx Nguyen]]></name>
@@ -19,6 +19,8 @@
     <updated>2014-11-28T16:08:36+07:00</updated>
     <id>http://dungxnguyen.github.io/blog/2014/11/28/hello-blog</id>
     <content type="html"><![CDATA[<p>Hello, My name is Dungx Nguyen. Welcome to my blog.</p>
+
+<p>Thank you.</p>
 ]]></content>
   </entry>
   

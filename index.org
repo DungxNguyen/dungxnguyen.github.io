@@ -1,0 +1,38 @@
+# DAILY TODO -*- mode: org -*-
+#+STARTUP: showall
+#+TODO: TODO IN-PROGRESS DELAY DONE
+#+TAGS: URGENT(u) EMACS(e) RESEARCH(r) HOME(h) CLASS(c) BOOK(b)
+#+TITLE: Dung Nguyen's personal homepage
+#+AUTHOR: Dung Nguyen
+#+EMAIL: <first_name><first_letter_of_last_name>@virginia.edu
+#+LANGUAGE:  en
+#+INFOJS_OPT: view:showall toc:t ltoc:t mouse:underline path:http://orgmode.org/org-info.js
+#+LINK_HOME: https://dungxnguyen.github.io
+#+LINK_UP: https://dungxnguyen.github.io
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/notebook.css" />
+
+* Bio
+I am currently a PhD Student in Computer Science at the University of Virginia. I study privacy-preserving algorithms in network science with applications in pulic health policy and health care. My Google Scholar profile is [[https://scholar.google.com/citations?user=Z8kTDGe93uYC&hl=en&oi=ao][here]].
+
+My email is <first-name><first-letter-of-last-name>@virginia.edu
+* Publications
+
+  - [[https://proceedings.mlr.press/v139/nguyen21i.html][Differentially private densest subgraph detection]]
+
+    /*Dung Nguyen* and Anil Vullikanti. Proceedings of the 38th International Conference on Machine Learning (ICML),/ PMLR 139:8140-8151, 2021.
+
+  - [[https://www.nature.com/articles/s41746-021-00489-2][Privacy-first health research with federated learning]]
+
+    /Sadilek, Adam, Luyang Liu, *Dung Nguyen,* Methun Kamruzzaman, Stylianos Serghiou, Benjamin Rader, Alex Ingerman et al. NPJ digital medicine 4,/ no. 1 (2021): 1-8.
+
+  - [[https://ieeexplore.ieee.org/abstract/document/8622389][Performance and Memory Trade-offs of Deep Learning Object Detection in Fast Streaming High-Definition Images]]
+  
+    /Srivastava, A., *Nguyen, D.,* Aggarwal, S., Luckow, A., Duffy, E., Kennedy, K., Ziolkowski, M. and Apon, A.. In 2018 IEEE International Conference on Big Data (Big Data)/ pp. 3915-3924, IEEE, 2018.
+
+  - [[https://ieeexplore.ieee.org/abstract/document/8411045][Evaluation of Highly Available Cloud Streaming Systems for Performance and Price]]
+
+    /*Nguyen, D.,* Luckow, A., Duffy, E., Kennedy, K. and Apon, A.. In 18th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID)/, pp. 360-363. IEEE, 2018.
+
+  - [[https://link.springer.com/chapter/10.1007/978-3-319-11680-8_52][Using Dependency Analysis to Improve Question Classification]]
+
+    /Le-Hong, P., Phan, X.H. and *Nguyen, T.D..* In Knowledge and Systems Engineering,/ pp. 653-665. Springer, Cham, 2015.

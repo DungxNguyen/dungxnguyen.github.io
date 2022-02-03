@@ -23,7 +23,7 @@ My email is <first-name><first-letter-of-last-name>@virginia.edu
 
   - [[https://www.nature.com/articles/s41746-021-00489-2][Privacy-first health research with federated learning]]
 
-    /Sadilek, Adam, Luyang Liu, *Dung Nguyen,* Methun Kamruzzaman, Stylianos Serghiou, Benjamin Rader, Alex Ingerman et al. NPJ digital medicine 4,/ no. 1 (2021): 1-8.
+    /Adam Sadilek, Luyang Liu, *Dung Nguyen,* Methun Kamruzzaman, Stylianos Serghiou, Benjamin Rader, Alex Ingerman et al. NPJ digital medicine 4,/ no. 1 (2021): 1-8.
 
   - [[https://ieeexplore.ieee.org/abstract/document/8622389][Performance and Memory Trade-offs of Deep Learning Object Detection in Fast Streaming High-Definition Images]]
   
@@ -31,7 +31,7 @@ My email is <first-name><first-letter-of-last-name>@virginia.edu
 
   - [[https://ieeexplore.ieee.org/abstract/document/8411045][Evaluation of Highly Available Cloud Streaming Systems for Performance and Price]]
 
-    /*Nguyen, D.,* Luckow, A., Duffy, E., Kennedy, K. and Apon, A.. In 18th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID)/, pp. 360-363. IEEE, 2018.
+    /*Nguyen, D.,* Luckow, A., Duffy, E., Kennedy, K. and Apon, A.. In 18th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID),/ pp. 360-363. IEEE, 2018.
 
   - [[https://link.springer.com/chapter/10.1007/978-3-319-11680-8_52][Using Dependency Analysis to Improve Question Classification]]
 

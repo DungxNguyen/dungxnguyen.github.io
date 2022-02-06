@@ -21,7 +21,7 @@ Asterisk (*) indicates equal contributions
 ** First and Co-first author papers
   - [[https://arxiv.org/pdf/2202.00636][Differentially Private Community Detection for Stochastic Block Models]]
 
-    /Mohamed Seif*, *Dung Nguyen**, Anil Vullikanti, Ravi Tandon/. Preprint, 2022
+    /Mohamed Seif^*, *Dung Nguyen^**, Anil Vullikanti, and Ravi Tandon/. Preprint, 2022
 
   - [[https://proceedings.mlr.press/v139/nguyen21i.html][Differentially private densest subgraph detection]]
 

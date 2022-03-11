@@ -12,7 +12,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/notebook.css" />
 
 * Bio
-I am currently a PhD Student in Computer Science at the University of Virginia. I study privacy-preserving algorithms in network science with applications in pulic health policy and health care. My Google Scholar profile is [[https://scholar.google.com/citations?user=Z8kTDGe93uYC&hl=en&oi=ao][here]].
+I am currently a PhD Student in Computer Science at the University of Virginia. I study privacy-preserving algorithms in network science with applications in pulic health policy and health care. My Google Scholar profile is [[https://scholar.google.com/citations?user=Z8kTDGe93uYC&hl=en&oi=ao][here]]. My advisor is [[https://engineering.virginia.edu/faculty/anil-vullikanti][Dr. Anil Vullikanti]].
 
 My email is <first-name><first-letter-of-last-name>@virginia.edu
 * Publications:

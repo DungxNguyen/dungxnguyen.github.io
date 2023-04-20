@@ -3,14 +3,14 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2022-03-10 Thu 20:28 -->
+<!-- 2023-04-19 Wed 21:35 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Dung Nguyen's personal homepage</title>
-<meta name="generator" content="Org mode" />
 <meta name="author" content="Dung Nguyen" />
-<style type="text/css">
- <!--/*--><![CDATA[/*><!--*/
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
   .title  { text-align: center;
              margin-bottom: .2em; }
   .subtitle { text-align: center;
@@ -31,8 +31,9 @@
   #postamble p, #preamble p { font-size: 90%; margin: .2em; }
   p.verse { margin-left: 3%; }
   pre {
-    border: 1px solid #ccc;
-    box-shadow: 3px 3px 3px #eee;
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
     padding: 8pt;
     font-family: monospace;
     overflow: auto;
@@ -41,21 +42,21 @@
   pre.src {
     position: relative;
     overflow: auto;
-    padding-top: 1.2em;
   }
   pre.src:before {
     display: none;
     position: absolute;
-    background-color: white;
-    top: -10px;
-    right: 10px;
+    top: -8px;
+    right: 12px;
     padding: 3px;
-    border: 1px solid black;
+    color: #555;
+    background-color: #f2f2f299;
   }
   pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
   pre.src-C:before { content: 'C'; }
   /* pre.src-C++ doesn't work in CSS */
   pre.src-clojure:before { content: 'Clojure'; }
@@ -191,18 +192,16 @@
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
   .org-svg { width: 90%; }
-  /*]]>*/-->
 </style>
 <link rel="stylesheet" type="text/css" href="../css/notebook.css" />
 
-<script type="text/javascript" src="http://orgmode.org/org-info.js">
+<script src="http://orgmode.org/org-info.js">
 // @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&amp;dn=gpl-3.0.txt GPL-v3-or-Later
 // @license-end
 </script>
 
-<script type="text/javascript">
+<script>
 // @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&amp;dn=gpl-3.0.txt GPL-v3-or-Later
-<!--/*--><![CDATA[/*><!--*/
 org_html_manager.set("TOC_DEPTH", "3");
 org_html_manager.set("LINK_HOME", "");
 org_html_manager.set("LINK_UP", "");
@@ -213,52 +212,29 @@ org_html_manager.set("FIXED_TOC", "0");
 org_html_manager.set("TOC", "1");
 org_html_manager.set("VIEW", "showall");
 org_html_manager.setup();  // activate after the parameters are set
-/*]]>*///-->
-// @license-end
-</script>
-<script type="text/javascript">
-// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
-<!--/*--><![CDATA[/*><!--*/
-     function CodeHighlightOn(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.classList.add("code-highlighted");
-         target.classList.add("code-highlighted");
-       }
-     }
-     function CodeHighlightOff(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.classList.remove("code-highlighted");
-         target.classList.remove("code-highlighted");
-       }
-     }
-    /*]]>*///-->
 // @license-end
 </script>
 </head>
 <body>
-<div id="content">
+<div id="content" class="content">
 <h1 class="title">Dung Nguyen's personal homepage</h1>
-<div id="table-of-contents">
+<div id="table-of-contents" role="doc-toc">
 <h2>Table of Contents</h2>
-<div id="text-table-of-contents">
+<div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orge08586d">1. Bio</a></li>
-<li><a href="#orgce122bd">2. Publications:</a>
+<li><a href="#orgab0dcc3">1. Bio</a></li>
+<li><a href="#org3b87c95">2. Publications:</a>
 <ul>
-<li><a href="#org48bd108">2.1. First and Co-first author papers</a></li>
-<li><a href="#org0a9360a">2.2. Other publications</a></li>
+<li><a href="#orga34842b">2.1. Selected publications: (First-authored or alphabetical order papers)</a></li>
+<li><a href="#org5e307f9">2.2. Other publications</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orge08586d" class="outline-2">
-<h2 id="orge08586d"><span class="section-number-2">1</span> Bio</h2>
+<div id="outline-container-orgab0dcc3" class="outline-2">
+<h2 id="orgab0dcc3"><span class="section-number-2">1.</span> Bio</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 I am currently a PhD Student in Computer Science at the University of Virginia. I study privacy-preserving algorithms in network science with applications in pulic health policy and health care. My Google Scholar profile is <a href="https://scholar.google.com/citations?user=Z8kTDGe93uYC&amp;hl=en&amp;oi=ao">here</a>. My advisor is <a href="https://engineering.virginia.edu/faculty/anil-vullikanti">Dr. Anil Vullikanti</a>.
@@ -269,24 +245,32 @@ My email is &lt;first-name&gt;&lt;first-letter-of-last-name&gt;@virginia.edu
 </p>
 </div>
 </div>
-<div id="outline-container-orgce122bd" class="outline-2">
-<h2 id="orgce122bd"><span class="section-number-2">2</span> Publications:</h2>
+<div id="outline-container-org3b87c95" class="outline-2">
+<h2 id="org3b87c95"><span class="section-number-2">2.</span> Publications:</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 Asterisk (*) indicates equal contributions
 </p>
 </div>
 
-<div id="outline-container-org48bd108" class="outline-3">
-<h3 id="org48bd108"><span class="section-number-3">2.1</span> First and Co-first author papers</h3>
+<div id="outline-container-orga34842b" class="outline-3">
+<h3 id="orga34842b"><span class="section-number-3">2.1.</span> Selected publications: (First-authored or alphabetical order papers)</h3>
 <div class="outline-text-3" id="text-2-1">
 <ul class="org-ul">
+<li><p>
+<a href="https://arxiv.org/pdf/2207.10240">Differentially Private Partial Set Cover with Applications to Facility Location</a>
+</p>
+
+<p>
+<i><b>(α-β)</b> George Z Li, <b>Dung Nguyen</b>, and Anil Vullikanti.</i> IJCAI 2023 (to appear)
+</p></li>
+
 <li><p>
 <a href="https://arxiv.org/pdf/2202.00636">Differentially Private Community Detection for Stochastic Block Models</a>
 </p>
 
 <p>
-<i>Mohamed Seif<sup>*</sup>, <b>Dung Nguyen<sup>*</sup></b>, Anil Vullikanti, and Ravi Tandon</i>. ICML 2022 <b>(Accepted)</b>
+<i>Mohamed Seif<sup>*</sup>, <b>Dung Nguyen<sup>*</sup></b>, Anil Vullikanti, and Ravi Tandon</i>. ICML 2022
 </p></li>
 
 <li><p>
@@ -294,7 +278,7 @@ Asterisk (*) indicates equal contributions
 </p>
 
 <p>
-<i><b>Dung Nguyen</b> and Anil Vullikanti. Proceedings of the 38th International Conference on Machine Learning (ICML),</i> PMLR 139:8140-8151, 2021.
+<i><b>Dung Nguyen</b> and Anil Vullikanti.</i> ICML 2021 
 </p></li>
 
 <li><p>
@@ -302,14 +286,14 @@ Asterisk (*) indicates equal contributions
 </p>
 
 <p>
-<i><b>Nguyen, D.</b>, Luckow, A., Duffy, E., Kennedy, K. and Apon, A.. In 18th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID),</i> pp. 360-363. IEEE, 2018.
+<i><b>Nguyen, D.</b>, Luckow, A., Duffy, E., Kennedy, K. and Apon, A..</i> CCGrid 2018 
 </p></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org0a9360a" class="outline-3">
-<h3 id="org0a9360a"><span class="section-number-3">2.2</span> Other publications</h3>
+<div id="outline-container-org5e307f9" class="outline-3">
+<h3 id="org5e307f9"><span class="section-number-3">2.2.</span> Other publications</h3>
 <div class="outline-text-3" id="text-2-2">
 <ul class="org-ul">
 <li><p>
@@ -342,7 +326,7 @@ Asterisk (*) indicates equal contributions
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Dung Nguyen</p>
-<p class="date">Created: 2022-03-10 Thu 20:28</p>
+<p class="date">Created: 2023-04-19 Wed 21:35</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

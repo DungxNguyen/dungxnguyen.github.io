@@ -16,9 +16,11 @@ I am currently a PhD Student in Computer Science at the University of Virginia. 
 
 My email is <first-name><first-letter-of-last-name>@virginia.edu
 * Publications:
-Asterisk (*) indicates equal contributions
 
 ** Selected publications: (First-authored or alphabetical order papers) 
+
+Asterisk (*) indicates equal contributions
+
   - [[https://arxiv.org/pdf/2207.10240][Differentially Private Partial Set Cover with Applications to Facility Location]]
 
 	/*(α-β)* George Z Li, *Dung Nguyen*, and Anil Vullikanti./ IJCAI 2023 (to appear)

@@ -19,7 +19,8 @@ My email is <first-name><first-letter-of-last-name>@virginia.edu
 
 ** Selected publications: (First-authored or alphabetical order papers) 
 
-Asterisk (*) indicates equal contributions
+Asterisk (^*) indicates equal contributions. 
+*(α-β)* indicates alphabetical author order.
 
   - [[https://arxiv.org/pdf/2207.10240][Differentially Private Partial Set Cover with Applications to Facility Location]]
 

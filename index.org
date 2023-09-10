@@ -9,10 +9,16 @@
 #+INFOJS_OPT: view:showall toc:t ltoc:t mouse:underline path:http://orgmode.org/org-info.js
 #+LINK_HOME: https://dungxnguyen.github.io
 #+LINK_UP: https://dungxnguyen.github.io
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/notebook.css" />
 
 * Bio
-I am currently a PhD candidate in computer science at the University of Virginia. I study privacy-preserving algorithms in network science with applications in public health policy and health care. My Google scholar profile is [[https://scholar.google.com/citations?user=Z8kTDGe93uYC&hl=en&oi=ao][here]]. My advisor is [[https://engineering.virginia.edu/faculty/anil-vullikanti][Dr. Anil Vullikanti]].
+I am currently a PhD candidate in computer science at the University of Virginia and [[https://biocomplexity.virginia.edu/][UVA Biocomplexity Institute]]. I study privacy-preserving algorithms (particularly under the differential privacy framework) in network science with applications in public health policy and health care. My research addresses privacy-preserving algorithms in both theoretical and practical aspects, and from both computational and societal viewpoints:
+
+- Can we solve fundamental graph problems under differential privacy with rigorous utility and privacy guarantees?
+- How does privacy affect accuracy, usability, explainability, or fairness in real-world data analyses on sensitive domains?
+
+In somewhat less technical terms, I design algorithms and systems that safeguard your sensitive information while enabling data holders, like researchers, government agencies, or other entities, to share valuable insights from your data with the world. No matter how hard someone examines the published data, they will not discover anything new about your protected information. Meanwhile, your data contributes to more precise research, more informed policies, and smarter AI. 
+
+My work on privacy has appeared on ICML, NeurIPS (to appear), IJCAI, and Nature. My Google scholar profile is [[https://scholar.google.com/citations?user=Z8kTDGe93uYC&hl=en&oi=ao][here]]. My advisor is [[https://engineering.virginia.edu/faculty/anil-vullikanti][Dr. Anil Vullikanti]].
 
 My email is <first-name><first-letter-of-last-name>@virginia.edu
 * Publications:
@@ -24,7 +30,7 @@ Asterisk (^*) indicates equal contributions.
 
   - [[https://arxiv.org/pdf/2207.10240][Differentially Private Partial Set Cover with Applications to Facility Location]]
 
-	/*(α-β)* George Li, *Dung Nguyen*, and Anil Vullikanti./ IJCAI 2023 (to appear)
+	/*(α-β)* George Li, *Dung Nguyen*, and Anil Vullikanti./ IJCAI 2023 
 
   - [[https://arxiv.org/pdf/2202.00636][Differentially Private Community Detection for Stochastic Block Models]]
 
@@ -39,6 +45,7 @@ Asterisk (^*) indicates equal contributions.
     /*Nguyen, D.*, Luckow, A., Duffy, E., Kennedy, K. and Apon, A../ CCGrid 2018 
 
 ** Other publications
+
   - [[https://www.nature.com/articles/s41746-021-00489-2][Privacy-first health research with federated learning]]
 
     /Adam Sadilek, Luyang Liu, *Dung Nguyen*, Methun Kamruzzaman, Stylianos Serghiou, Benjamin Rader, Alex Ingerman et al. NPJ digital medicine 4,/ no. 1 (2021): 1-8.
@@ -50,3 +57,8 @@ Asterisk (^*) indicates equal contributions.
   - [[https://link.springer.com/chapter/10.1007/978-3-319-11680-8_52][Using Dependency Analysis to Improve Question Classification]]
 
     /Le-Hong, P., Phan, X.H. and *Nguyen, T.D.*. In Knowledge and Systems Engineering,/ pp. 653-665. Springer, Cham, 2015.
+
+
+# Local Variables:
+# org-html-validation-link: nil
+# End:

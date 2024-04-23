@@ -18,7 +18,7 @@ I am currently a PhD candidate in computer science at the University of Virginia
 
 In somewhat less technical terms, I design algorithms and systems that safeguard your sensitive information while enabling data holders, like researchers, government agencies, or other entities, to share valuable insights from your data with the world. No matter how hard someone examines the published data, they will not discover anything new about your protected information. Meanwhile, your data contributes to more precise research, more informed policies, and smarter AI. 
 
-My work on privacy has appeared on ICML, NeurIPS, IJCAI, AISTATS (to appear) and Nature. My Google scholar profile is [[https://scholar.google.com/citations?hl=en&user=crI3PxsAAAAJ][here]]. My advisor is [[https://engineering.virginia.edu/faculty/anil-vullikanti][Dr. Anil Vullikanti]].
+My work on privacy has appeared on ICML, NeurIPS, IJCAI, AISTATS, and Nature. My Google scholar profile is [[https://scholar.google.com/citations?hl=en&user=crI3PxsAAAAJ][here]]. My advisor is [[https://engineering.virginia.edu/faculty/anil-vullikanti][Dr. Anil Vullikanti]].
 
 My email is <first-name><first-letter-of-last-name>@virginia.edu
 * Publications:
@@ -27,9 +27,9 @@ Asterisk (^*) indicates equal contributions.
 *(α-β)* indicates alphabetical author order.
 ** Selected publications: (First-authored or alphabetical order papers)
 
-  - Computing epidemic metrics with edge differential privacy
+  - [[https://proceedings.mlr.press/v238/z-li24a/z-li24a.pdf][Computing epidemic metrics with edge differential privacy]]
 
-	/*(α-β)* George Li, *Dung Nguyen*, and Anil Vullikanti./ AISTATS 2024  (to appear)
+	/*(α-β)* George Li, *Dung Nguyen*, and Anil Vullikanti./ AISTATS 2024 
 
   - [[https://openreview.net/pdf?id=Fqg9vGWy4k][Faster approximate subgraph counts with privacy]]
 
@@ -41,7 +41,7 @@ Asterisk (^*) indicates equal contributions.
 
   - [[https://arxiv.org/pdf/2202.00636][Differentially private community detection for stochastic block models]]
 
-    /Mohamed Seif^*, *Dung Nguyen^**, Anil Vullikanti, and Ravi Tandon/. ICML 2022
+    /Mohamed Seif Mohamed^*, *Dung Nguyen^**, Anil Vullikanti, and Ravi Tandon/. ICML 2022
 
   - [[https://proceedings.mlr.press/v139/nguyen21i.html][Differentially private densest subgraph detection]]
 

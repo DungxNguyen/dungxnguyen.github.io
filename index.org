@@ -71,7 +71,13 @@ Asterisk (^*) indicates equal contributions.
     /Le-Hong, P., Phan, X.H. and *Nguyen, T.D.*. In Knowledge and Systems Engineering,/ pp. 653-665. Springer, Cham, 2015.
 
 * Others
-  - Besides working in computer science, I love animals. I have four dogs and two cats, and I'm also a director at VietPaws Rescue Organization. Our ongoing mission is to save dogs and cats from the meat industry in Vietnam.
+  - Besides working in computer science, I love animals. I have four dogs and two cats, and I'm also a director at VietPaws Rescue Organization. Our ongoing mission is to save dogs and cats from the meat industry in Vietnam. Among them, the first two have just arrived in the U.S. safely.
+
+#+CAPTION: May 2024, the first two rescued dogs have arrived in the US after a years-long process. 
+#+NAME:   fig:TepTin
+#+ATTR_HTML: :width 300px
+[[./Pics/TepTin.png]]
+   
 
 # Local Variables:
 # org-html-validation-link: nil

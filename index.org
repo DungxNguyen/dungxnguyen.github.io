@@ -32,6 +32,10 @@ Asterisk (^*) indicates equal contributions.
 
     /*Dung Nguyen* and Anil Vullikanti./ ICML 2024
 
+  - [[https://arxiv.org/abs/2406.04610][Contrastive explainable clustering with differential privacy]]
+
+    /*Dung Nguyen^**, Ariel Vetzler^*, Sarit Kraus, and Anil Vullikanti./ Pre-print 2024
+
   - [[https://proceedings.mlr.press/v238/z-li24a/z-li24a.pdf][Computing epidemic metrics with edge differential privacy]]
 
 	/*(α-β)* George Li, *Dung Nguyen*, and Anil Vullikanti./ AISTATS 2024 

@@ -76,10 +76,11 @@ Asterisk (^*) indicates equal contributions.
 
 * Awards
 
- - Finalist in the data.org's 2024 [[https://data.org/initiatives/pets-challenge/][PET Challenge]], which focuses on using state-of-the-art privacy-preserving techniques to integrate private data into epidemiological analysis pipelines for public health policy. A $50,000 prize shared with team members Anil Vullikanti and Zihan Guan.
+ - Finalist (ongoing) in the data.org's 2024 [[https://data.org/initiatives/pets-challenge/][PET Challenge]], which focuses on using privacy-preserving techniques to integrate private financial data into epidemiological analysis pipelines for public health policy-making. A $50,000 prize shared with team members Anil Vullikanti and Zihan Guan.
 
 * Others
-  - Besides working in computer science, I love animals. I have four dogs and two cats, and I'm also a director at VietPaws Rescue Organization. Our ongoing mission is to save dogs and cats from the meat industry in Vietnam. Among them, the first two have just arrived in the U.S. safely.
+  - Besides working in computer science, I love animals. I have four dogs and two cats, and I'm also a director at VietPaws Rescue Organization. Our ongoing mission is to save dogs, cats, and wild animals from the food industry in Vietnam[fn:1]. Recently, the first two have just arrived safely in the U.S.
+    
 
 #+CAPTION: May 2024, the first two rescued dogs have arrived in the US after a years-long process. 
 #+NAME:   fig:TepTin
@@ -87,6 +88,7 @@ Asterisk (^*) indicates equal contributions.
 [[./Pics/TepTin.png]]
    
 
+[fn:1]For this reason, I strongly recommend against traveling to Vietnam at this moment if you don't want to encounter these kinds of foods and restaurants everywhere.
 # Local Variables:
 # org-html-validation-link: nil
 # End:

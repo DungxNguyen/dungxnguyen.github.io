@@ -76,6 +76,8 @@ Asterisk (^*) indicates equal contributions.
 
 * Awards
 
+ - 2024-25 UVA School of Engineering Endowed Graduate Fellowship (Copenhaver Charitable Trust Bicentennial Fellowship)
+
  - Finalist (ongoing competition) in the data.org's 2024 [[https://data.org/initiatives/pets-challenge/][PET Challenge]], which focuses on using privacy-preserving techniques to integrate private financial data into epidemiological analysis pipelines for public health policy-making. 
 
 * Others

@@ -11,14 +11,14 @@
 #+LINK_UP: https://dungxnguyen.github.io
 
 * Bio
-I am currently a PhD candidate in computer science at the University of Virginia and [[https://biocomplexity.virginia.edu/][UVA Biocomplexity Institute]]. I study privacy-preserving algorithms (particularly under the differential privacy framework) in network science with applications in public health policy and health care. My research addresses privacy-preserving algorithms in both theoretical and practical aspects, and from both computational and societal viewpoints:
+I am currently a PhD candidate in computer science at the University of Virginia and [[https://biocomplexity.virginia.edu/][UVA Biocomplexity Institute]]. I study privacy-preserving algorithms (particularly under the differential privacy framework) in network science with applications in public health policy and health care. My research addresses privacy-preserving algorithms on both theoretical and practical aspects, and from both computational and societal viewpoints:
 
 - Can we solve fundamental graph problems under differential privacy with rigorous utility and privacy guarantees?
 - How does privacy affect accuracy, usability, explainability, or fairness in real-world data analyses on sensitive domains?
 
 In somewhat less technical terms, I design algorithms and systems that safeguard your sensitive information while enabling data holders, like researchers, government agencies, or other entities, to share valuable insights from your data with the world. No matter how hard someone examines the published data, they will not discover anything new about your protected information. Meanwhile, your data contributes to more precise research, more informed policies, and smarter AI. 
 
-My work on privacy has appeared on ICML, NeurIPS, IJCAI, AISTATS, and Nature Digital Medicine. My Google scholar profile is [[https://scholar.google.com/citations?hl=en&user=crI3PxsAAAAJ][here]]. My advisor is [[https://engineering.virginia.edu/faculty/anil-vullikanti][Dr. Anil Vullikanti]].
+My work on privacy has appeared in ICML, NeurIPS, IJCAI, AISTATS, and Nature Digital Medicine. My Google scholar profile is [[https://scholar.google.com/citations?hl=en&user=crI3PxsAAAAJ][here]]. My advisor is [[https://engineering.virginia.edu/faculty/anil-vullikanti][Dr. Anil Vullikanti]].
 
 My email is <first-name><first-letter-of-last-name>@virginia.edu
 

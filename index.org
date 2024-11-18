@@ -78,7 +78,8 @@ Asterisk (^*) indicates equal contributions.
 
  - 2024-25 UVA School of Engineering Endowed Graduate Fellowship (Copenhaver Charitable Trust Bicentennial Fellowship)
 
- - Finalist (ongoing competition) in the data.org's 2024 [[https://data.org/initiatives/pets-challenge/][PET Challenge]], which focuses on using privacy-preserving techniques to integrate private financial data into epidemiological analysis pipelines for public health policy-making. 
+
+ - 2024 winner of the data.org's [[https://data.org/initiatives/pets-challenge/][PET Challenge]], a worldwide competition focuses on using privacy-preserving techniques to integrate private financial data into epidemiological analysis pipelines for public health policy-making. 
 
 * Others
   - Besides working in computer science, I love animals. I have four dogs and two cats, and I'm also a director at VietPaws Rescue Organization. Our ongoing mission is to save dogs, cats, and wild animals from the food industry in Vietnam[fn:1]. Recently, the first two have just arrived safely in the U.S.

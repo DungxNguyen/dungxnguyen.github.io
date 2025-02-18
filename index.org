@@ -28,13 +28,14 @@ Asterisk (^*) indicates equal contributions.
 *(α-β)* indicates alphabetical author order.
 ** Selected publications: (First-authored or alphabetical order papers)
 
-  - [[https://arxiv.org/abs/2406.02644][Differentially private exact recovery for stochastic block models]]
-
-    /*Dung Nguyen* and Anil Vullikanti./ ICML 2024
 
   - [[https://arxiv.org/abs/2406.04610][Contrastive explainable clustering with differential privacy]]
 
-    /*Dung Nguyen^**, Ariel Vetzler^*, Sarit Kraus, and Anil Vullikanti./ Pre-print, poster presented at TPDP 2024
+    /*Dung Nguyen^**, Ariel Vetzler^*, Sarit Kraus, and Anil Vullikanti./ AAMAS 2025 
+
+  - [[https://arxiv.org/abs/2406.02644][Differentially private exact recovery for stochastic block models]]
+
+    /*Dung Nguyen* and Anil Vullikanti./ ICML 2024
 
   - [[https://proceedings.mlr.press/v238/li24q/li24q.pdf][Computing epidemic metrics with edge differential privacy]]
 

@@ -33,7 +33,7 @@ Asterisk (^*) indicates equal contributions.
 
     /*Dung Nguyen^**, Ariel Vetzler^*, Sarit Kraus, and Anil Vullikanti./ AAMAS 2025 
 
-  - [[https://arxiv.org/abs/2406.02644][Differentially private exact recovery for stochastic block models]]
+  - [[https://proceedings.mlr.press/v235/nguyen24j.html][Differentially private exact recovery for stochastic block models]]
 
     /*Dung Nguyen* and Anil Vullikanti./ ICML 2024
 

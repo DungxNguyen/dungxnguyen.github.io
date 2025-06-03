@@ -28,6 +28,10 @@ Asterisk (^*) indicates equal contributions.
 *(α-β)* indicates alphabetical author order.
 ** Selected publications: (First-authored or alphabetical order papers)
 
+  - [[https://arxiv.org/abs/2506.00745][Controlling the Spread of Epidemics on Networks with Differential Privacy]]
+
+    /*(α-β)* *Dung Nguyen*, Aravind Srinivasan, Renata Valieva, Anil Vullikanti, Jiayi Wu./ TPDP 2025
+
   - [[https://arxiv.org/abs/2406.04610][Contrastive explainable clustering with differential privacy]]
 
     /*Dung Nguyen^**, Ariel Vetzler^*, Sarit Kraus, and Anil Vullikanti./ AAMAS 2025 

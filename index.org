@@ -86,7 +86,7 @@ Asterisk (^*) indicates equal contributions.
  - 2024 winner of the data.org's [[https://data.org/initiatives/pets-challenge/][PET Challenge]], a worldwide competition focuses on using privacy-preserving techniques to integrate private financial data into epidemiological analysis pipelines for public health policy-making. 
 
 * Others
-  - Besides working in computer science, I love animals. I have four dogs and two cats, and I'm also a director at VietPaws Rescue Organization. Our ongoing mission is to save dogs, cats, and wild animals from the food industry in Vietnam[fn:1]. Recently, the first two have just arrived safely in the U.S.
+  - Besides working in computer science, I love animals. I have four dogs and two cats, and I'm also a director at [[https://vietpawsrescue.org][VietPaws Rescue Organization]]. Our ongoing mission is to save dogs, cats, and wild animals from the food industry in Vietnam[fn:1]. Recently, the first two have just arrived safely in the U.S.
     
 
 #+CAPTION: May 2024, the first two rescued dogs have arrived in the US after a years-long process. 

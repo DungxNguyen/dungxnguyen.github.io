@@ -67,11 +67,11 @@ Asterisk (^*) indicates equal contributions.
 ** Other publications
   - [[https://arxiv.org/pdf/2506.22342][A Framework for Multi-source Privacy Preserving Epidemic Analysis]]
 
-    /Zihan Guan, Zhiyuan Zhao, Fengwei Tian, *Dung Nguyen,* Payel Bhattacharjee, Ravi Tandon, B. Aditya Prakash, Anil Vullikanti./
+    /Zihan Guan, Zhiyuan Zhao, Fengwei Tian, *Dung Nguyen,* Payel Bhattacharjee, Ravi Tandon, B. Aditya Prakash, Anil Vullikanti./ Preprint 2025
 
   - [[https://www.nature.com/articles/s41746-021-00489-2][Privacy-first health research with federated learning]]
 
-    /Adam Sadilek, Luyang Liu, *Dung Nguyen*, Methun Kamruzzaman, Stylianos Serghiou, Benjamin Rader, Alex Ingerman et al./ NPJ digital medicine 4, no. 1 (2021):
+    /Adam Sadilek, Luyang Liu, *Dung Nguyen*, Methun Kamruzzaman, Stylianos Serghiou, Benjamin Rader, Alex Ingerman et al./ NPJ digital medicine 4, no. 1 (2021)
 
   - [[https://ieeexplore.ieee.org/abstract/document/8622389][Performance and memory trade-offs of deep learning object detection in fast streaming high-definition images]]
   
@@ -79,7 +79,7 @@ Asterisk (^*) indicates equal contributions.
 
   - [[https://link.springer.com/chapter/10.1007/978-3-319-11680-8_52][Using dependency analysis to improve question classification]]
 
-    /Le-Hong, P., Phan, X.H. and *Nguyen, T.D.*./ Knowledge and Systems Engineering, Springer 2015.
+    /Le-Hong, P., Phan, X.H. and *Nguyen, T.D.*./ Knowledge and Systems Engineering, Springer 2015
 
 * Awards
 

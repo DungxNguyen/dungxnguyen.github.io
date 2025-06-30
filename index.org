@@ -65,6 +65,9 @@ Asterisk (^*) indicates equal contributions.
     /*Nguyen, D.*, Luckow, A., Duffy, E., Kennedy, K. and Apon, A../ CCGrid 2018 
 
 ** Other publications
+  - [[https://arxiv.org/pdf/2506.22342][A Framework for Multi-source Privacy Preserving Epidemic Analysis]]
+
+    Zihan Guan, Zhiyuan Zhao, Fengwei Tian, *Dung Nguyen,* Payel Bhattacharjee, Ravi Tandon, B. Aditya Prakash, Anil Vullikanti
 
   - [[https://www.nature.com/articles/s41746-021-00489-2][Privacy-first health research with federated learning]]
 

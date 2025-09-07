@@ -2,25 +2,26 @@
 #+STARTUP: showall
 #+TODO: TODO IN-PROGRESS DELAY DONE
 #+TAGS: URGENT(u) EMACS(e) RESEARCH(r) HOME(h) CLASS(c) BOOK(b)
-#+TITLE: Dung Nguyen's personal homepage
+#+TITLE: Dung Nguyen's space 
 #+AUTHOR: Dung Nguyen
-#+EMAIL: <first_name><first_letter_of_last_name>@virginia.edu
+#+EMAIL: <first-letter-of-first-name><last-name>1@haverford.edu
 #+LANGUAGE:  en
 #+INFOJS_OPT: view:showall toc:t ltoc:t mouse:underline path:http://orgmode.org/org-info.js
-#+LINK_HOME: https://dungxnguyen.github.io
-#+LINK_UP: https://dungxnguyen.github.io
+#+LINK_HOME: https://dnguyens.space
+#+LINK_UP: https://dnguyens.space
 
 * Bio
-I am currently a PhD candidate in computer science at the University of Virginia, and a Student Researcher on Google Research's Algorithms & optimization team in NYC. I study privacy-preserving algorithms (particularly under the differential privacy framework) in network science and machine learning with applications in public health policy and health care. My research addresses privacy-preserving algorithms on both theoretical and practical aspects, and from both computational and societal viewpoints:
+I am currently a Visiting Assistant Professor of Computer Science at Haverford College, PA.
+I study privacy-preserving algorithms (particularly under the differential privacy framework) in network science and machine learning with applications in public health policy and health care. My research addresses privacy-preserving algorithms on both theoretical and practical aspects, and from both computational and societal viewpoints:
 
 - Can we solve fundamental graph problems under differential privacy with rigorous utility and privacy guarantees?
 - How does privacy affect accuracy, usability, explainability, or fairness in real-world data analyses on sensitive domains?
 
 In somewhat less technical terms, I design algorithms and systems that safeguard your sensitive information while enabling data holders, like researchers, government agencies, or other entities, to share valuable insights from your data with the world. No matter how hard someone examines the published data, they will not discover anything new about your protected information. Meanwhile, your data contributes to more precise research, more informed policies, and smarter AI. 
 
-My work on privacy has appeared in ICML, NeurIPS, IJCAI, AISTATS, AAMAS, and Nature Digital Medicine. My Google scholar profile is [[https://scholar.google.com/citations?hl=en&user=crI3PxsAAAAJ][here]]. My advisor is [[https://engineering.virginia.edu/faculty/anil-vullikanti][Dr. Anil Vullikanti]].
+My work on privacy has appeared in ICML, NeurIPS, IJCAI, AISTATS, AAMAS, and Nature Digital Medicine. My Google scholar profile is [[https://scholar.google.com/citations?hl=en&user=crI3PxsAAAAJ][here]]. I received my PhD in Computer Science from the University of Virginia. My PhD advisor is [[https://engineering.virginia.edu/faculty/anil-vullikanti][Dr. Anil Vullikanti]]. Before joining Haverford, I was on Google Research Algorithms and Optimization team in NYC.
 
-My email is <first-name><first-letter-of-last-name>@virginia.edu
+My email is <first-letter-of-first-name><last-name>1@haverford.edu
 
 * Publications:
 
